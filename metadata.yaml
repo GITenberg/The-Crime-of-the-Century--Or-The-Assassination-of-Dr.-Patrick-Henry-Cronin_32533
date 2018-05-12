@@ -1,0 +1,25 @@
+_repo: The-Crime-of-the-Century--Or-The-Assassination-of-Dr.-Patrick-Henry-Cronin_32533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunt, Henry M.
+    gutenberg_agent_id: '35897'
+    url: http://www.gutenberg.org/2009/agents/35897
+description: ''
+gutenberg_issued: '2010-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cronin, Patrick Henry, 1846-1889'
+- !lcsh 'Trials (Assassination) -- Illinois -- Chicago'
+- !lcc 'HV'
+title: The Crime of the Century; Or, The Assassination of Dr. Patrick Henry Cronin
+url: http://www.gutenberg.org/ebooks/32533
